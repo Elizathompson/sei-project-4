@@ -10,8 +10,6 @@
 •	GitHub | TablePlus | Insomnia<br><br />
 •	Axios | Http Proxy Middleware | React-Notify-Toast | React-Router-Doms | React-Responsive-Carousel<br><br />
 
-## Installation
-1.	FILL IN THESE STEPS...
 <br><br />
 
 ## Project - Artly
